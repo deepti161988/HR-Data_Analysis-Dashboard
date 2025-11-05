@@ -18,6 +18,7 @@ HR_data_ByDeepti.xlsx – Data source (Excel format)
 <a href = "https://github.com/deepti161988/HR-Data_Analysis-Dashboard/blob/e125234a3ff32d63aaca9f7f0c3f0763adfb4628/HR_data_ByDeepti.xlsx"> Dataset </a>
 
 bg1.gif – Custom background image used in the dashboard
+<a href = "https://github.com/deepti161988/HR-Data_Analysis-Dashboard/blob/e125234a3ff32d63aaca9f7f0c3f0763adfb4628/bg1.gif"> BackgroundPic <a/>
 
 ## 🎯 Key Insights
 
