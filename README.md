@@ -14,7 +14,8 @@ This dashboard was designed and customized by me as part of a learning project t
 
 HR_Dashboard_ByDeepti.pbix – Power BI dashboard file
 
-HR_data_ByDeepti.xlsx – Data source (Excel format)
+HR_data_ByDeepti.xlsx – Data source (Excel format) 
+<a href = "https://github.com/deepti161988/HR-Data_Analysis-Dashboard/blob/e125234a3ff32d63aaca9f7f0c3f0763adfb4628/HR_data_ByDeepti.xlsx"> Dataset </a>
 
 bg1.gif – Custom background image used in the dashboard
 
