@@ -13,6 +13,10 @@ This dashboard was designed and customized by me as part of a learning project t
 ## 📁 Project Files
 
 HR_Dashboard_ByDeepti.pbix – Power BI dashboard file
+<a href = "https://github.com/deepti161988/HR-Data_Analysis-Dashboard/blob/0ac0c57556face14825087eb38cbf3d0d30ea30e/HR_Dashboard_ByDeepti.pbix"> Dashboard </a>
+
+HR_Dashboard_Screenshot.png – Screensort of Power BI Dashboard for instant view in Github
+<a href = "https://github.com/deepti161988/HR-Data_Analysis-Dashboard/blob/0ac0c57556face14825087eb38cbf3d0d30ea30e/HR_Dashboard_Screenshot.png"> Screensort_Dashboard </a>
 
 HR_data_ByDeepti.xlsx – Data source (Excel format) 
 <a href = "https://github.com/deepti161988/HR-Data_Analysis-Dashboard/blob/e125234a3ff32d63aaca9f7f0c3f0763adfb4628/HR_data_ByDeepti.xlsx"> Dataset </a>
